@@ -1,0 +1,7 @@
+C:\Users\Harvey Mellomida\source\repos\requirements\requirements\bin\Debug\requirements.exe.config
+C:\Users\Harvey Mellomida\source\repos\requirements\requirements\bin\Debug\requirements.exe
+C:\Users\Harvey Mellomida\source\repos\requirements\requirements\bin\Debug\requirements.pdb
+C:\Users\Harvey Mellomida\source\repos\requirements\requirements\obj\Debug\requirements.csproj.AssemblyReference.cache
+C:\Users\Harvey Mellomida\source\repos\requirements\requirements\obj\Debug\requirements.csproj.CoreCompileInputs.cache
+C:\Users\Harvey Mellomida\source\repos\requirements\requirements\obj\Debug\requirements.exe
+C:\Users\Harvey Mellomida\source\repos\requirements\requirements\obj\Debug\requirements.pdb
